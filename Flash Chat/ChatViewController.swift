@@ -74,6 +74,7 @@ class ChatViewController: UIViewController, UITableViewDelegate, UITableViewData
             cell.messageBackground.backgroundColor = UIColor.flatGray()
         }
         
+        
         return cell
     }
     
